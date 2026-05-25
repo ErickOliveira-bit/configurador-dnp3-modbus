@@ -1,0 +1,5 @@
+# nome;ip;port;slave_id;registrador;endereco;tipo_dado;dnp_ai;dnp_bi
+# registrador: holding ou input | tipo_dado: int16,uint16,int32,uint32,float32
+Temperatura exemplo;192.168.100.200;502;1;holding;0;int16;0;100
+Vazao float exemplo;192.168.100.200;502;1;holding;10;float32;1;101
+Corrente input exemplo;192.168.100.200;502;1;input;20;float32;2;102
