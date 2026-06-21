@@ -1,6 +1,6 @@
-# Gateway Modbus DNP3 Organizado
+# Gateway Modbus DNP3
 
-Compilação igual ao projeto original:
+Compilação:
 
 ```bash
 cd ~/Projects/RPI_slavednp3
